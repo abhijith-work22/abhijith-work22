@@ -52,8 +52,8 @@ Welcome to my digital space! I build intelligent systems, develop scalable appli
 ---
 
 ### 📫 Connect With Me
-- 📧 **Email:** *you can add your email here*  
-- 🔗 **LinkedIn:** *add your LinkedIn link here*  
+- 📧 **Email:abhijith.work22@gmail.com
+
 
 ---
 
